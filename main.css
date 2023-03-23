@@ -1,0 +1,52 @@
+/**************************TAG SELECTORS*************************/
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Tilt Prism', sans-serif;
+    font-size: 8rem;
+}
+
+/*************************CLASS SELECTORS************************/
+
+.about {
+    background-color: #545eb5;
+    color: white;
+    text-align: right;
+    padding: 10%;
+}
+
+.art-img {
+    margin: 2rem 0;
+}
+
+.bilder {
+    background-color: #ed9591;
+    color: #545eb5;
+    text-align: center;
+    padding: 10%;
+}
+
+.kontakt {
+    background-color: #ed9591;
+    color: #545eb5;
+    text-align: center;
+    padding: 5%;
+}
+
+.testimonials {
+    background-color: #545eb5;
+    color: white;
+    text-align: center;
+    padding: 10%;
+}
+
+.title {
+    background-color: #ed9591;
+    color: #545eb5;
+    text-align: center;
+    margin: auto;
+    padding: 20%;
+}
